@@ -1,13 +1,17 @@
-# Image Recognition
+# Image Recognition & Processing
 
-![Project Status](https://img.shields.io/badge/Status-To%20Be%20Done-yellow)
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Course](https://img.shields.io/badge/Course-Image%20Processing-blue)
+![Course](https://img.shields.io/badge/Course-Image%20Recognition-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter&logoColor=white)
 
 ## Project Overview
 
-This repository is dedicated to the final project for the **Image Recognition** course. The specific topic and dataset are currently to be determined following consultation with the instructors.
+This repository hosts a joint project for the **Image Processing** and **Image Recognition** courses. The study focuses on the classification of satellite imagery using the **EuroSAT dataset**. The project integrates methodologies from both fields to bridge advanced image preprocessing with deep learning-based recognition.
+
+### Short Project Description
+This repository hosts the EuroSAT analysis project, which focuses on land cover and land use classification using satellite imagery. The project implements a comprehensive pipeline that combines spectral band preprocessing and spatial filtering with convolutional neural networks. By utilizing the EuroSAT dataset, we aim to demonstrate how targeted image processing techniques enhance the accuracy of automated recognition in geographical and social science contexts.
 
 ## Team Members
 
@@ -16,17 +20,15 @@ This repository is dedicated to the final project for the **Image Recognition** 
 
 ---
 
-## Assessment of the Course: Project Details
+## Assessment Requirements
 
-* It is required that data be independently collected, and the topic should be proposed following consultation with the course instructors.
-* The project requires the application of the methods discussed during the course in the context of social science, along with a concise presentation of the obtained results.
-* Jupyter Notebook form of the report is preferred.
+* **Integration:** The project combines requirements for both Image Processing and Image Recognition courses.
+* **Data:** Based on the EuroSAT dataset (multispectral satellite imagery).
+* **Format:** The final report is delivered as a structured Jupyter Notebook.
+* **Focus:**
+    * Scientific and business relevance of land use classification.
+    * Effort in cleaning and preprocessing satellite data.
+    * Correctness of the CNN-based recognition analysis.
+    * Interpretation of results and presentation of conclusions.
 
-**The evaluation shall be based on:**
-* the scientific and business relevance of the chosen topic,
-* a clear formulation of the project objective,
-* the selection of an appropriate method to achieve the intended goal,
-* the effort put into cleaning preprocessing,
-* the correctness of the analysis conducted,
-* the presentation of the conclusions,
-* the structure and organisation of the report.
+---
